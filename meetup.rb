@@ -1,9 +1,9 @@
 class Meetup
 
-  def initialize(x,y)
+  def initialize(day, year)
   end
 
-  def day(x,y)
+  def day(day_name, teenth)
     Date.new(2013, 5, 13)
   end
 
